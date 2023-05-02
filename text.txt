@@ -1,0 +1,35 @@
+employee details 
+
+name 
+email id
+phoneno
+role
+
+Rest API - HTTP -> GET , POST , PUT , PATCH DELETE 
+
+GET : http://localhost:9000/employee
+
+GET :  http://localhost:9000/employee/<id>
+
+POST : http://localhost:9000/employee
+
+PATCH : http://localhost:9000/employee/<id>
+
+DELETE : http://localhost:9000/employee/<id>
+
+nodejs
+
+express
+
+mongodb
+
+POSTMAN
+
+vscode
+
+
+
+
+
+
+
